@@ -1,0 +1,27 @@
+<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+        <g>
+            <ellipse cx="190" cy="245" rx="60" ry="15" fill="black" opacity="0.15" />
+            <circle cx="190" cy="140" r="100" fill="orange" />
+            <circle cx="170" cy="110" r="40" fill="white" />
+            <circle cx="230" cy="110" r="40" fill="white" />
+            <circle cx="180" cy="110" r="8" fill="black" />
+            <circle cx="240" cy="110" r="8" fill="black" />
+            <circle cx="200" cy="148" r="12" fill="black" />
+            <ellipse cx="190" cy="190" rx="18" ry="10" fill="crimson"/>
+            <polygon points="110,80 120,35 150,50" fill="orange"/>
+            <polygon points="115,77 122,40 147,53" fill="black"/>
+            <polygon points="230,50 260,35 270,80" fill="orange"/>
+            <polygon points="234,53 257,40 265,77" fill="black"/>
+            <ellipse cx="60" cy="170" rx="60" ry="20" fill="orange" transform="rotate(15 60 170)"/>
+            <polygon points="4,155 14,170 20,147" fill="white"/>
+        </g> 
+        <g>
+            <ellipse cx="430" cy="245" rx="60" ry="15" fill="black" opacity="0.15" />
+            <circle cx="430" cy="140" r="100" fill="gold" />
+            <circle cx="390" cy="110" r="40" fill="white" />
+            <circle cx="450" cy="110" r="40" fill="white" />
+            <circle cx="380" cy="110" r="8" fill="black" />
+            <circle cx="440" cy="110" r="8" fill="black" />
+            <ellipse cx="420" cy="190" rx="10" ry="18" fill="crimson"/>
+        </g>
+        </svg>
